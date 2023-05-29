@@ -1,4 +1,4 @@
-// g++ main.cpp `pkg-config gtkmm-3.0 --cflags --libs` -o rec
+// g++ src/main.cpp `pkg-config gtkmm-3.0 --cflags --libs` -o rec
 
 #include <gtkmm.h>
 #include <iostream>

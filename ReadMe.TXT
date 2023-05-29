@@ -34,9 +34,7 @@ License
 This software is released under the GPL 3.0 License.
 Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
-Acknowledgments
+Contributions are welcome!
 
     This software uses the GTKmm library (https://www.gtkmm.org) for the graphical user interface.
     The video recording functionality is implemented using the FFmpeg library (https://www.ffmpeg.org).
-    Special thanks to the open source community for their valuable contributions and support.
