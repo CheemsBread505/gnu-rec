@@ -1,4 +1,4 @@
-gnu-rec
+=== gnu-rec ===
 
 gnu-rec is a simple open source recording software built using GTKmm library. It provides a user interface to record the screen and optionally capture audio. The recorded content is saved as an MP4 video file using the FFmpeg library.
 Features
