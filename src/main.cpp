@@ -1,8 +1,5 @@
 // g++ main.cpp `pkg-config gtkmm-3.0 --cflags --libs` -o rec
 
-// g++ main.cpp `pkg-config gtkmm-3.0 --cflags --libs` -o rec
-//records video and mic :)) 
-
 #include <gtkmm.h>
 #include <iostream>
 #include <string>
